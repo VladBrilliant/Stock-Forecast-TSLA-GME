@@ -1,14 +1,16 @@
 <p align="center" style="margin:0 0 18px 0;">
   <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="85" alt="AI Brain"/>
   &nbsp;&nbsp;
-  <img 
-    src="https://latex.codecogs.com/png.image?\dpi{120}\small \theta \leftarrow \theta - \alpha \nabla J(\theta)\quad \hat{y}=\beta_0 + \sum_{i=1}^{n}\beta_i x_i \quad \mathcal{L}=-\sum y\log(\hat{y})-(1-y)\log(1-\hat{y}) \quad w_{t+1}=w_t-\eta\nabla\mathcal{L}(w_t)"
-    alt="ML formulas"
-    style="vertical-align:middle; max-width: 75%;"
-  />
-  &nbsp;&nbsp;<code style="font-size:9px; color:#90a4ae;">import numpy as np</code>
+  <span style="font-size:9px; color:#90a4ae;">
+    \( \theta \leftarrow \theta - \alpha \nabla J(\theta) \quad
+       \hat{y} = \beta_0 + \sum_{i=1}^{n}\beta_i x_i \quad
+       \mathcal{L} = -\sum y\log(\hat{y}) - (1-y)\log(1-\hat{y}) \quad
+       w_{t+1}=w_t-\eta\nabla\mathcal{L}(w_t) \)
+    &nbsp;&nbsp;<code style="font-size:9px;">import numpy as np</code>
+  </span>
   &nbsp;&nbsp;<span style="font-size:26px;">🐍</span>
 </p>
+
 
 <h1 align="center">Coursera – IBM Python Project for Data Science</h1>
 
@@ -96,4 +98,5 @@ Full functionality is available in this GitHub version.
 - Interactive dashboards built with **Plotly**  
 - Forecasting with **Prophet / ARIMA**  
 - Exports in **CSV · HTML · PNG · ZIP** for portability  
+
 
