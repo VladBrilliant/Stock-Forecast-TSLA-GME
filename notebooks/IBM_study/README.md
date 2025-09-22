@@ -54,11 +54,13 @@ These are the original screenshots submitted to Coursera for grading.
 ## ℹ️ Notes on Versions
 
 - 🔹 **Coursera submission (this notebook):** all tasks Q1–Q7 completed and screenshots submitted.  
-- 🔹 **IBM Cloud version:** notebook also uploaded to IBM Watson Studio, but due to the limits of the free *Lite* plan editing is frozen for a month. The version there has all tasks done and plots displayed, but a few small issues remain to be fixed once the environment is unlocked.  
-- 🔹 **Extended version (GitHub only):** in addition to the course tasks, a full forecasting pipeline was added using **Prophet / ARIMA**, with exports to CSV, HTML, PNG, and ZIP.  
-  📂 [Extended notebook on GitHub](../extra)  
+- 🔹 **IBM Cloud version:** notebook also uploaded to IBM Watson Studio.  
+  📂 [View on IBM Cloud](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/68ab5a8f-a206-44ce-b99a-3138c9c58935/view?access_token=5f105c703536a0133190b848a2d42cce055e9a2ebbd8bb04a7521d6c536ee475&context=cpdaas)  
+  ⚠️ *Due to the free Lite plan limits, editing is frozen for one month. This version shows all plots and tasks done, but small issues remain to be fixed when the environment unlocks.*  
+
+- 🔹 **Extended version (GitHub):** in addition to the course tasks, a forecasting pipeline was added using **Prophet / ARIMA**, with exports to CSV, HTML, PNG, and ZIP.  
+  📂 [Extended notebook on GitHub](https://github.com/VladBrilliant/Stock-Forecast-TSLA-GME/blob/main/notebooks/IBM_study/Python_Basics_for%20Data_Science_Project_1.ipynb)  
   🚧 *Work on the extended version is ongoing — new features, improved forecasting, and visualizations will be added over time.*  
 
----
 
 📌 *This is the official project notebook submitted as part of the Coursera IBM Data Science Professional Certificate. The GitHub repo contains additional extended analysis and forecasting beyond the scope of the assignment.*
