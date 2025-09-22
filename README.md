@@ -3,14 +3,11 @@
 </p>
 
 <p align="center">
-  <em>
-    \(\theta \leftarrow \theta - \alpha \nabla J(\theta)\) &nbsp;·&nbsp;
-    \(\hat{y} = \beta_0 + \sum_{i=1}^{n}\beta_i x_i\) &nbsp;·&nbsp;
-    \(\mathcal{L} = -\sum y\log(\hat{y}) - (1-y)\log(1-\hat{y})\) &nbsp;·&nbsp;
-    \(w_{t+1}=w_t-\eta\nabla\mathcal{L}(w_t)\)
-  </em><br/>
+  <img alt="ML formulas" src="https://latex.codecogs.com/svg.image?\theta\leftarrow\theta-\alpha\nabla J(\theta)\;\cdot\;\hat{y}=\beta_0+\sum_{i=1}^{n}\beta_i x_i\;\cdot\;\mathcal{L}=-\sum y\log(\hat{y})-(1-y)\log(1-\hat{y})\;\cdot\;w_{t+1}=w_t-\eta\nabla\mathcal{L}(w_t)"/>
+  <br/>
   <code>import numpy as np</code> &nbsp; <span style="font-size:22px;">🐍</span>
 </p>
+
 
 
 
@@ -100,6 +97,7 @@ Full functionality is available in this GitHub version.
 - Interactive dashboards built with **Plotly**  
 - Forecasting with **Prophet / ARIMA**  
 - Exports in **CSV · HTML · PNG · ZIP** for portability  
+
 
 
 
