@@ -59,8 +59,9 @@ These are the original screenshots submitted to Coursera for grading.
   ⚠️ *Due to the free Lite plan limits, editing is frozen for one month. This version shows all plots and tasks done, but small issues remain to be fixed when the environment unlocks.*  
 
 - 🔹 **Extended version (GitHub):** in addition to the course tasks, a forecasting pipeline was added using **Prophet / ARIMA**, with exports to CSV, HTML, PNG, and ZIP.  
-  📂 [Extended notebook on GitHub](https://github.com/VladBrilliant/Stock-Forecast-TSLA-GME/blob/main/notebooks/IBM_study/Python_Basics_for%20Data_Science_Project_1.ipynb)  
+  📂 [Extended notebook on GitHub](https://github.com/VladBrilliant/Stock-Forecast-TSLA-GME/blob/main/notebooks/Extended/Python_Project_for_Data_Science_Project_2.ipynb)  
   🚧 *Work on the extended version is ongoing — new features, improved forecasting, and visualizations will be added over time.*  
+
 
 
 📌 *This is the official project notebook submitted as part of the Coursera IBM Data Science Professional Certificate. The GitHub repo contains additional extended analysis and forecasting beyond the scope of the assignment.*
