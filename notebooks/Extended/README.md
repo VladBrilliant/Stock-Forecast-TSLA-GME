@@ -86,6 +86,6 @@ This extended version is still being developed. Next steps include:
 
 - [Official Project Notebook (IBM Study)](../IBM_study/Python_Basics_for%20Data_Science_Project_1.ipynb)  
 - [Extended Project (GitHub)](Python_Project_for_Data_Science_Project_2.ipynb)  
-- [IBM Cloud Version (incomplete, Lite plan limited)](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/68ab5a8f-a206-44ce-b99a-3138c9c58935/view?access_token=5f105c703536a0133190b848a2d42cce055e9a2ebbd8bb04a7521d6c536ee475&context=cpdaas)  
+- [IBM Cloud Version (incomplete, Lite plan limited)](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/102cb6de-f796-4b64-813a-93be441410cf/view?access_token=b1c670e2a79a022625a032407740178eed2fab657d97f01877edf5f89862a456&context=cpdaas)  
 
 ---
